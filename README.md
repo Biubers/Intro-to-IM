@@ -6,4 +6,4 @@
 ****hi****
 how 
 
-![](folder/space ship design)
+![](folder/spaceshipdesign)
