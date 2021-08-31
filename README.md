@@ -6,4 +6,4 @@
 ****hi****
 how 
 
-![](folder/space ship design.png)
+![](folder/space-ship-design.png)
