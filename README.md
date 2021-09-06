@@ -1,9 +1,3 @@
-# Intro-to-IM
-*hello*
 
-**hiiii**
 
-****hi****
-how 
-
-![](folder/spaceshipdesign.png)
+![](folder/Boby Portrait-Screen Shot.png)
