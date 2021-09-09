@@ -1,3 +1,3 @@
 
 
-[](folder/Boby Portrait-Screen Shot.png)
+![](folder/Boby Portrait-Screen Shot.png)
