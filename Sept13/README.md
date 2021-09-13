@@ -1,1 +1,3 @@
-![](Artwork-IM)
+- When I thought about making an artwork for this project, I wanted to do something elegant, something that I would see painted in a gallery. I have been seeing many artworks that works around geometric shapes lately, hence I decide to go with using geometric shapes as the dominant factor. 
+- Challenges: 
+- I still have issue with the color, but using ramdom and let the computer generate color itself helpd (and i just run many times until i get the combination i like)
