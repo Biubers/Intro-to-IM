@@ -1,3 +1,5 @@
+![](Sept28/TextOutcome.png)
+
 ![](Sept23/CheeseTrap.png)
 
 ![](Sept13/Artwork-IM.png)
