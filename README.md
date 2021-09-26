@@ -1,4 +1,4 @@
-![](Sept28/TextOutcome.png)
+![](Sept28/TextOutcome)
 
 ![](Sept23/CheeseTrap.png)
 
