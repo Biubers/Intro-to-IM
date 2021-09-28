@@ -1,4 +1,6 @@
+**Generative text output
 
+this one below is the best candidiate: 
 <img width="659" alt="TextOutcome" src="https://user-images.githubusercontent.com/89835270/134820364-b6b2def9-e7a7-46ec-bc1f-e24374fcab1a.png">
 
 My intentions for this assignment is to recreate the tiktok trend: "Two freinds in the room...Will they kiss?...Yes they will!~" trend but in more creative ways. Hence, I used the template that we went through in class as template and started from there.
