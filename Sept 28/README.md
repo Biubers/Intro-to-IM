@@ -11,8 +11,11 @@ At first, I my words would not be in the right place. I checked the code many ti
 <img width="541" alt="Screen Shot 2021-09-28 at 9 19 50 AM" src="https://user-images.githubusercontent.com/89835270/135027689-fa20717f-d844-421e-ac88-87c1c95b4cde.png">
 Here is a screenshotafter I changed the list to support the program reading veertically.
 
+
+
 Another Challenge that I faced is that there is alwasy a " sign in front of my first generated word. I have tried for a long time to see why it was there but I still dont know why. I definitely didn't type in an extra " and there wasn't a problem with my code that I could identify.
 
 <img width="633" alt="Screen Shot 2021-09-28 at 9 14 29 AM" src="https://user-images.githubusercontent.com/89835270/135027194-047d838f-125d-45e8-8881-a9feb104602e.png">
 
 
+I also realized that text generation may not make sense in first try. The outcome was very different from expectation sometimes. I changed my input text many times to make most of the iteration makes sense. Words that you think fits might not neccessairly do, and words that you initially think would be boring actually works really well. The proccess was overall fun and funny to make. It made me laught many times in the proccess.
